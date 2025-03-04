@@ -21,6 +21,6 @@ I am known for being responsible ✅, organized 📅, and a proactive team playe
 <br>
 
 - 🔭 I’m currently working on college
-- 🌱 I’m currently learning Java, SQL, HTML, CSS, PHP, JAVASCRIPT
+- 🌱 I’m currently learning Java, C++, SQL, HTML, CSS, PHP, JAVASCRIPT
 - 📫 How to reach me: sergiomaring13@gmail.com
 - ⚡ Fun fact: I love videogames and everything about tecnology
