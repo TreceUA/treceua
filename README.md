@@ -1,5 +1,6 @@
 ## Hi there 👋
-<img src="https://github.com/user-attachments/assets/b2282fdd-5676-44c7-ae2f-a7d939eac599" alt="Black Minimal Email Header" style="width:100%;">
+
+<img width="100%"  alt="Black Minimal Email Header" src="https://github.com/user-attachments/assets/9cf890b5-4f6b-4447-aa91-85783df9e944" />
 
 My name is Sergio. I am from Spain and currently I am studying Multimedia Engineering at UA🏫.
 <br>
